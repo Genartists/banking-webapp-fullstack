@@ -89,4 +89,4 @@ banking-app/
 ```
 
 
-Made with ❤️ by **Harry Le**
+Made by **Harry Le**
