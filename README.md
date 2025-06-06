@@ -45,7 +45,7 @@ Overview: SecureBank is a modern full-stack online banking web application built
 ## Database
 
 ERD
-![](obsidian://open?vault=Obsidian%20Vault&file=Proj%2FAsset%2Ferd_bank.png)
+![erd_bank_webapp](https://github.com/user-attachments/assets/be2762e0-9940-4f81-8273-e17bc7f6a80c)
 
 ## Project Structure
 
