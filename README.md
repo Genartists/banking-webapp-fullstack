@@ -40,11 +40,12 @@ Overview: SecureBank is a modern full-stack online banking web application built
 - VSCode + IntelliJ
 ## Software Architechture 
 
-![[banking-app-architechture.jpg]]
+![Image](https://github.com/user-attachments/assets/cf593ddd-273a-45a9-97d1-4567e7ae3bf4)
+
 ## Database
 
 ERD
-![[erd_bank.png]]
+![](obsidian://open?vault=Obsidian%20Vault&file=Proj%2FAsset%2Ferd_bank.png)
 
 ## Project Structure
 
